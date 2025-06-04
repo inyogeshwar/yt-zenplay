@@ -1,7 +1,7 @@
-# YouTube Smart Tab Controller
+# YT ZenPlay
 
 ## Overview
-YouTube Smart Tab Controller is a Chrome extension designed to enhance your YouTube browsing experience by managing multiple YouTube tabs efficiently. The extension automatically pauses other YouTube tabs when a new one is activated, ensuring that you only hear audio from the active tab. It also offers optional features such as pausing playback when the tab is inactive.
+YT ZenPlay is a Chrome extension designed to enhance your YouTube browsing experience by managing multiple YouTube tabs efficiently. The extension automatically pauses other YouTube tabs when a new one is activated, ensuring that you only hear audio from the active tab. It also offers optional features such as pausing playback when the tab is inactive.
 
 ## Features
 - **Auto-Pause Other YouTube Tabs**: Automatically pauses all other YouTube tabs when a new tab is activated.
@@ -14,16 +14,16 @@ YouTube Smart Tab Controller is a Chrome extension designed to enhance your YouT
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/youtube-smart-tab-controller.git
+   git clone https://github.com/inyogeshwar/yt-zenplay.git
    ```
 2. Navigate to the project directory:
    ```
-   cd youtube-smart-tab-controller
+   cd yt-zenplay
    ```
 3. Load the extension in Chrome:
    - Open Chrome and go to `chrome://extensions/`.
    - Enable "Developer mode".
-   - Click "Load unpacked" and select the `youtube-smart-tab-controller` directory.
+   - Click "Load unpacked" and select the `yt-zenplay` directory.
 
 ## Usage
 - Click on the extension icon in the Chrome toolbar to open the popup interface.
@@ -32,6 +32,12 @@ YouTube Smart Tab Controller is a Chrome extension designed to enhance your YouT
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
+
+## Developer
+🧑‍💻 Developed by: Yogeshwar Kumar
+
+## Support
+If you find this extension useful, consider supporting me on [Ko-fi](https://ko-fi.com/yogeshwarkumar)!
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
