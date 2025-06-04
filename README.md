@@ -1,8 +1,3 @@
-Here’s your complete and polished `README.md` file for the **YT ZenPlay** Chrome extension, ready to copy into your GitHub repo:
-
----
-
-````markdown
 # 🎧 YT ZenPlay
 
 YT ZenPlay is a Chrome extension designed to enhance your YouTube browsing experience by automatically managing multiple YouTube tabs.
